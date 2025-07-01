@@ -2,7 +2,7 @@ export default function Sidebar() {
     return (
         <aside>
             <nav>
-                <div className="w-36 pb-3">
+                <div className="w-32 pb-3">
                     <a href="/">
                         <img src="/assets/icons/logo.png" alt="Logo Power Chord" />
                     </a>
